@@ -90,5 +90,3 @@ My current focus is on improving my skills in front-end and back-end development
     <img src="https://github-readme-stats.vercel.app/api?username=Kiernnn&show_icons=true&theme=aura" alt="GitHub Stats" height="120" style="margin: 5px;" />
   </a>
 </div>
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
