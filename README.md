@@ -1,10 +1,7 @@
-## 🚀 About Me :
+# 💫 About Me:
+Hey there! I'm Shinn Thant Ye Yint, a curious and motivated junior developer with a passion for creating clean, efficient, and scalable web applications.<br><br>My current focus is on improving my skills in front-end and back-end development using frameworks like Laravel, and exploring modern CSS frameworks like Tailwind. I thrive in dynamic environments where I can collaborate with others, and I’m always open to exploring new technologies.
 
-Hey there! I'm Shinn Thant Ye Yint, a curious and motivated junior developer with a passion for creating clean, efficient, and scalable web applications.
-
-My current focus is on improving my skills in front-end and back-end development using frameworks like Laravel, and exploring modern CSS frameworks like Tailwind. I thrive in dynamic environments where I can collaborate with others, and I’m always open to exploring new technologies.
-
-## Languages :
+## 💻 Languages :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
@@ -15,7 +12,7 @@ My current focus is on improving my skills in front-end and back-end development
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
 
-## Frameworks & Tools :
+## 💻 Frameworks & Tools :
 
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
@@ -43,7 +40,7 @@ My current focus is on improving my skills in front-end and back-end development
 </p>
 
 
-## Connect with me :
+## 🌐 Socials:
 
 <div>
   <a href="https://github.com/Kiernnn">
@@ -70,16 +67,10 @@ My current focus is on improving my skills in front-end and back-end development
 </div>
 
 
-## :fire: My Stats :
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kiernnn&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kiernnn&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiernnn&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiernnn&layout=compact&theme=aura" alt="Most Used Languages" height="120" style="margin: 5px;" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiernnn&theme=aura" alt="Streak Stats" height="120" style="margin: 5px;" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kiernnn&show_icons=true&theme=aura" alt="GitHub Stats" height="120" style="margin: 5px;" />
-  </a>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=Kiernnn&icon=0&color=6)](https://visitcount.itsvg.in)
