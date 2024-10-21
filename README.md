@@ -40,7 +40,7 @@ Hey there! I'm Shinn Thant Ye Yint, a curious and motivated junior developer wit
 </p>
 
 
-## 🌐 Socials:
+## 🌐 Socials :
 
 <div>
   <a href="https://github.com/Kiernnn">
