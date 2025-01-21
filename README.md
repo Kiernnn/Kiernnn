@@ -24,8 +24,8 @@ Hey there! I'm Shinn Thant Ye Yint, a curious and motivated junior developer wit
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="laravel" alt="laravel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/livewire/livewire-original.svg" title="livewire" alt="livewire" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwind" alt="tailwind" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="firebase" alt="firebase" width="40" height="40"/>&nbsp;
@@ -34,29 +34,13 @@ Hey there! I'm Shinn Thant Ye Yint, a curious and motivated junior developer wit
 
 ## 🌐 Socials :
 
-<div>
-  <a href="https://github.com/Kiernnn">
-    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/github.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
-  </a> 
-  <a href="https://discord.com/users/kiern_nn">
-    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/discord.svg" title="discord" alt="discord" width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://open.spotify.com/user/wzgnjj9r8hyjo8n53qz38xr3u">
-    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/spotify.svg" title="spotify" alt="spotify" width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://www.youtube.com/@kern2119">
-    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/youtube.svg" title="youtube" alt="youtube" width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://x.com/kiern_nova">
-    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/twitter-x.svg" title="twitter" alt="twitter" width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://www.instagram.com/kiern_nova">
-    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/instagram.svg" title="instagram" alt="instagram" width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://www.facebook.com/kiern.shinthant.6?mibextid=ZbWKwL">
-    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/facebook.svg" title="facebook" alt="facebook" width="40" height="40"/>&nbsp;
-  </a>
-</div>
+[![GitHub](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/github.svg)](https://github.com/Kiernnn)
+[![Discord](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/discord.svg)](https://discord.com/users/kiern_nn)
+[![Spotify](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/spotify.svg)](https://open.spotify.com/user/wzgnjj9r8hyjo8n53qz38xr3u)
+[![YouTube](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/youtube.svg)](https://www.youtube.com/@kern2119)
+[![Twitter](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/twitter-x.svg)](https://x.com/kiern_nova)
+[![Instagram](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/instagram.svg)](https://www.instagram.com/kiern_nova)
+[![Facebook](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/facebook.svg)](https://www.facebook.com/kiern.shinthant.6?mibextid=ZbWKwL)
 
 
 # 📊 GitHub Stats:
