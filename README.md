@@ -41,7 +41,7 @@ Hey there! I'm Shinn Thant Ye Yint, a curious and motivated junior developer wit
 [![Spotify](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/spotify.svg)](https://open.spotify.com/user/wzgnjj9r8hyjo8n53qz38xr3u)
 [![YouTube](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/youtube.svg)](https://www.youtube.com/@kern2119)
 [![Twitter](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/twitter-x.svg)](https://x.com/kiern_nova)
-[![Instagram](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/instagram.svg)](https://www.instagram.com/kiern_nova)
+[![Instagram](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/instagram.svg)](https://www.instagram.com/nothingjust.kiern)
 [![Facebook](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/facebook.svg)](https://www.facebook.com/kiern.shinthant.6?mibextid=ZbWKwL)
 
 
