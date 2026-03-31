@@ -37,11 +37,11 @@ Hey there! I'm Shinn Thant Ye Yint, a curious and motivated junior developer wit
 [![GitHub](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/github.svg)](https://github.com/Kiernnn)
 <a href="https://stackoverflow.com/users/25172380/shinn-thant-ye-yint" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25172380" height="30" width="40" /></a>
 <a href="https://medium.com/@shinthantyeyint467" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shinthantyeyint467" height="30" width="40" /></a>
-[![Discord](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/discord.svg)](https://discord.com/users/nothingjust.kiern)
+[![Discord](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/discord.svg)](https://discord.com/users/nonchalant.kiern)
 [![Spotify](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/spotify.svg)](https://open.spotify.com/user/wzgnjj9r8hyjo8n53qz38xr3u)
 [![YouTube](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/youtube.svg)](https://www.youtube.com/@kern2119)
 [![Twitter](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/twitter-x.svg)](https://x.com/kiern_nova)
-[![Instagram](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/instagram.svg)](https://www.instagram.com/nothingjust.kiern)
+[![Instagram](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/instagram.svg)](https://www.instagram.com/ur_nclt.kiern)
 [![Facebook](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/facebook.svg)](https://www.facebook.com/kiern.shinthant.6?mibextid=ZbWKwL)
 
 
